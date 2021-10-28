@@ -1,0 +1,24 @@
+body{
+    background-color: lightblue;
+    background-image: url(" img.jfif");
+    background-repeat: no-repeat ;
+    /* background-size: cover; */
+
+    /* background-position-x: right; */
+    background-position: right bottom;
+}
+
+h1, h2{
+    color: orangered;
+    text-align: center;
+}
+
+#abc {
+    color: white;
+    text-align: center;
+}
+
+.xyz {
+    color: green;
+    text-align: center;
+}
